@@ -1,1 +1,3 @@
-# release-config
+# Release config
+
+Publicly available release configuration.
